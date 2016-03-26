@@ -20,7 +20,7 @@
 	float: right;
 	margin-right: 65px;
 	width: 460px;
-	margin-top:200px;
+	margin-top:160px;
 }
 
 .conteudo_ipsum p{
@@ -71,7 +71,7 @@
 .gerar_prupru{
 	width:450px;
 	height:60px;
-	background:#ee3024;
+	background:#4F8EAD;
 	color:#fff;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -125,14 +125,14 @@
 }
 
 .assinatura{
-	color: #EE3024;
+	color: #4F8EAD;
 	width: 1024px;
 	float: right;
-	margin: 10px auto 0px auto;
+	margin: 57px 3px auto auto;
 	text-align: right;
 	background: #FFF;
 	padding: 10px 0px;
-	border-top: 4px solid #EE3024;
+	border-top: 4px solid #4F8EAD;
 }
 
 .assinatura a{
@@ -163,8 +163,8 @@
 	height:200px;
 	background-image: url(../img/ola-internautas.png);
 	position:absolute;
-	bottom: 558px;
-	right: 417px;
+	bottom: 370px;
+	right: 350px;
 }
 .prupru-ipsum-logo{
 	width:460px;
