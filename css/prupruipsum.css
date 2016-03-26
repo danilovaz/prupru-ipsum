@@ -36,7 +36,7 @@
 	margin: auto 8px;
 	width:40px;
 	height:40px;
-	background:#ee3024;
+	background:#4F8EAD;
 	color:#fff;
 	padding: 4px 13px;
 	font-size: 25px;
@@ -48,7 +48,7 @@
 }
 
 .botao:hover{
-	background:#000;
+	background:#8F8F8F;
 }
 
 .prupru{
