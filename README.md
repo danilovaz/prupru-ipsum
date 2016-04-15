@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/danilovaz/prupru-ipsum.png?label=ready&title=Ready)](https://waffle.io/danilovaz/prupru-ipsum)
 # prupru-ipsum
 
 > Um gerador de textos inspirado nos nossos queridos amigos Pombos, pru pru!
